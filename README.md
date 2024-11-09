@@ -1,4 +1,5 @@
 # E-Commerce-Sales-Analysis
+![logo](https://github.com/rachit7217/E-Commerce-Sales-Analysis/blob/main/Dashboard%201%20e%20commerce.png)
 Creating a Power BI project for "E-commerce Sales Analysis" involves several key features that utilize Excel, SQL, and Power BI tools effectively:
 
 1. **Data Collection**: Use SQL to extract relevant sales data from databases, including customer information, product details, sales transactions, and returns.
